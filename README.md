@@ -49,13 +49,13 @@ BeeLink delivers a trustless, transparent ecosystem with dual dedicated user exp
 ### 🐝 Beekeeper Portal
 - **Hive Telemetry Dashboard**: Live monitoring of hive weight, internal temperature, relative humidity, and queen age, with interactive historical trend charts.
 - **AI-Powered Insights**: Automated health diagnostics predicting optimal harvest windows, swarm risks, moisture anomalies, and varroa mite alerts.
-- **Harvest Logger**: Standardized digital logging of harvests (nectar source, moisture percentage, purity ratings, yield) with automatic batch identification.
+- **Harvest Logger**: Standardized digital logging of harvests (nectar source, moisture percentage, origin ratings, yield) with automatic batch identification.
 - **QR Code Generation**: Instantly generates vector QR codes for every batch to attach to jar packaging.
 - **Inventory & Store Management**: List artisan honey jars directly on the integrated marketplace, control stock, and set transparent pricing.
 
 ### 🍯 Consumer Portal
 - **Instant QR Provenance Scanner**: Scan any BeeLink batch code or bottle label to instantly unlock the honey's full provenance journey.
-- **Interactive Batch Details**: View certified purity ratings, moisture content, floral nectar source, apiary geolocation, and harvest date.
+- **Interactive Batch Details**: View verified origin, moisture content, floral nectar source, apiary geolocation, and harvest date.
 - **Artisan Marketplace**: Discover and purchase raw, unfiltered, single-origin honey directly from verified beekeepers.
 - **End-to-End Order Tracking**: Track the order through cold-storage packing, climate-controlled electric vehicle dispatch, and delivery.
 
