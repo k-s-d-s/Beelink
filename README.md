@@ -61,6 +61,47 @@ BeeLink delivers a trustless, transparent ecosystem with dual dedicated user exp
 
 ---
 
+## 📸 Screenshots & Visual Walkthrough
+
+### 🔀 Role Selection Screen
+Dual-portal gateway allowing users to seamlessly toggle between the **Beekeeper** and **Conscious Consumer** workflows.
+
+<p align="center">
+  <img src="screenshots/role_selection.png" alt="BeeLink Role Selection Screen" width="900"/>
+</p>
+
+### 🐝 Beekeeper Portal
+
+#### 1. Hive IoT Telemetry Dashboard
+Real-time sensor telemetry tracking hive weight, internal brood temperature, humidity, and queen health alongside 24-hour historical trend charts across all active apiaries.
+
+<p align="center">
+  <img src="screenshots/hive_telemetry.png" alt="Hive IoT Telemetry Dashboard" width="900"/>
+</p>
+
+#### 2. Harvest Logger & QR Generator
+Digitized harvest logging capturing botanical floral source, moisture percentages, sensory notes, and auto-minting traceable QR batch passports.
+
+<p align="center">
+  <img src="screenshots/harvest_logger.png" alt="Harvest Logger and QR Generator" width="900"/>
+</p>
+
+#### 3. AI Colony Health & Predictive Insights
+Acoustic spectrum diagnostics and weight curve analytics detecting swarm preparation patterns and predicting optimal extraction windows before colony loss.
+
+<p align="center">
+  <img src="screenshots/ai_insights.png" alt="AI Colony Health and Predictive Insights" width="900"/>
+</p>
+
+#### 4. Beekeeper Store & Inventory Management
+Integrated direct-to-consumer store manager allowing beekeepers to package harvest batches, set jar pricing, track inventory stock, and monitor total sales revenue.
+
+<p align="center">
+  <img src="screenshots/store_inventory.png" alt="Beekeeper Store and Inventory Management" width="900"/>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Framework**: [Flutter](https://flutter.dev) (v3.x) & [Dart](https://dart.dev) (v3.2+)
