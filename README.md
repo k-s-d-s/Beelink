@@ -100,6 +100,29 @@ Integrated direct-to-consumer store manager allowing beekeepers to package harve
   <img src="screenshots/store_inventory.png" alt="Beekeeper Store and Inventory Management" width="900"/>
 </p>
 
+### 🍯 Consumer Portal
+
+#### 1. Honey Authenticity QR Scanner
+Camera viewfinder interface equipped with instant mock batch verification chips, enabling consumers to inspect honey provenance even without physical labels on emulators.
+
+<p align="center">
+  <img src="screenshots/consumer_qr_scanner.png" alt="Honey Authenticity QR Scanner" width="900"/>
+</p>
+
+#### 2. Direct Artisan Honey Marketplace
+Single-origin honey catalog displaying raw, organic certifications, user ratings, real-time jar availability, floral filtering, and direct links to inspect source apiaries.
+
+<p align="center">
+  <img src="screenshots/consumer_marketplace.png" alt="BeeLink Honey Marketplace" width="900"/>
+</p>
+
+#### 3. Orders & Provenance Tracking
+Transparent end-to-end milestone tracker following orders from cold-storage batch sealing through green electric vehicle courier dispatch, complete with one-tap batch authentication.
+
+<p align="center">
+  <img src="screenshots/consumer_orders.png" alt="My Orders and Provenance Tracking" width="900"/>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
