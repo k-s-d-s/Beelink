@@ -18,7 +18,7 @@ class _MarketplaceScreenState extends State<MarketplaceScreen> {
 
   void _showPurchaseSheet(BuildContext context, ProductModel product) {
     int quantity = 1;
-    final addressController = TextEditingController(text: '450 Sunset Blvd, Apt 3B, San Francisco, CA');
+    final addressController = TextEditingController(text: 'Flat 402, Shanti Niketan, Indiranagar, Bengaluru, Karnataka');
 
     showModalBottomSheet(
       context: context,
@@ -124,7 +124,7 @@ class _MarketplaceScreenState extends State<MarketplaceScreen> {
                     children: [
                       const Text('Total Amount:', style: TextStyle(fontSize: 15, fontWeight: FontWeight.w500)),
                       Text(
-                        '\$${totalPrice.toStringAsFixed(2)}',
+                        '₹${totalPrice.toStringAsFixed(2)}',
                         style: const TextStyle(fontSize: 22, fontWeight: FontWeight.bold, color: Colors.deepOrange),
                       ),
                     ],
@@ -337,7 +337,7 @@ class _MarketplaceScreenState extends State<MarketplaceScreen> {
                                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                                     children: [
                                       Text(
-                                        '\$${product.price.toStringAsFixed(2)}',
+                                        '₹${product.price.toStringAsFixed(2)}',
                                         style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: Colors.deepOrange),
                                       ),
                                       Row(

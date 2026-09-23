@@ -125,7 +125,7 @@ class OrderTrackingScreen extends StatelessWidget {
                             ),
                           ),
                           Text(
-                            '\$${order.totalPrice.toStringAsFixed(2)}',
+                            '₹${order.totalPrice.toStringAsFixed(2)}',
                             style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
                           ),
                         ],

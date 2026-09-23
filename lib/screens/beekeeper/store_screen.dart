@@ -90,7 +90,7 @@ class _StoreScreenState extends State<StoreScreen> {
                           controller: priceController,
                           keyboardType: const TextInputType.numberWithOptions(decimal: true),
                           decoration: const InputDecoration(
-                            labelText: 'Price (\$)',
+                            labelText: 'Price (₹)',
                             border: OutlineInputBorder(),
                           ),
                         ),
@@ -206,7 +206,7 @@ class _StoreScreenState extends State<StoreScreen> {
                   children: [
                     _buildStatCard(
                       'Total Revenue',
-                      '\$${totalRevenue.toStringAsFixed(2)}',
+                      '₹${totalRevenue.toStringAsFixed(2)}',
                       'Across ${orders.length} orders',
                       Icons.payments,
                       Colors.green.shade700,
@@ -293,7 +293,7 @@ class _StoreScreenState extends State<StoreScreen> {
                                   ),
                                 ),
                                 Text(
-                                  '\$${product.price.toStringAsFixed(2)}',
+                                  '₹${product.price.toStringAsFixed(2)}',
                                   style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 16, color: Colors.deepOrange),
                                 ),
                               ],
